@@ -83,7 +83,7 @@
 <li>	Change hero media to the name of the uploaded file </li>
 </ul>
 <br>
-<b> To update the icon (in the brower): </b>
+<b> To update the icon (in the browser): </b>
 <ul>
 <li>	Upload a new icon.png to /assets/media </li>
 </ul>
