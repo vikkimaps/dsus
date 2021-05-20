@@ -8,7 +8,7 @@ weight: 10
 title: "Data Science for Cities" ### update to the title of your module
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media: leedslogo.png
+hero_media: vis-for-gds.png
 
 design:
   background:
