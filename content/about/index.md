@@ -13,30 +13,37 @@ header:
   caption: ""
   image: ""
 ---
-#update these details
-<h4> Module Code: </h4> GEOG5420M <br>
-<h4> Module Title: </h4> Data Science for Cities <br>
-<h4> Credits: </h4> 15 <br> 
-<h4> Semester: </h4> 1 <br> 
-<h4> Compulsory: </h4> Yes <br>
-<h4> Course Leader: <h4/> <a href="https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden" target="_blank">Vikki Houlden </a> <br>
+<h4> Module Code: </h4> GEOG5420M 
+<h4> Module Title: </h4> Data Science for Cities 
+<h4> Credits: </h4> 15 
+<h4> Semester: </h4> 1  
+<h4> Compulsory: </h4> Yes 
+<h4> Course Leader: <h4/> <a href="https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden" target="_blank">Vikki Houlden </a> 
   
-<h3> Welcome to UDS@Leeds! </h3>
-<p> Our Masters degree in Urban Data Science and Analytics offers you the opportunity to gain in depth knowledge of the methods and approaches of data science and learn how to apply them in understanding cities and setting urban policy.
+<h3> Summary </h3>
+This module will provide a foundation in data science training, introducing concepts in data handling, exploratory data analysis, machine learning, and visualisation. The course will provide students with opportunities to work with a variety of spatial and spatiotemporal datasets relating to urban systems (e.g. transport data, demographics, morphologies). The course will embed good practice in data science production through code notebooks, and in open science methods (e.g. through GitHub). The course will aim to become language agnostic, but beginning by providing code and opportunities to submit assessments in a specified programming language, which will allow students to shape their learning to match optional course requirements.
 
-The course will combine technical training in the latest data science techniques – from data wrangling, to machine learning, to visualisation, and beyond – with the critical thinking needed to interrogate and understand complex urban and mobility challenges.
+  
+<h3> Module Objectives </h3>
+This module will introduce students to urban data science, providing a thorough foundation of data sets, analytics and applications across a diverse range of contemporary urban contexts. It will develop an understanding of the appropriate steps and techniques for effective data processing and visualisation, fostering independence and confidence in coding though practical approaches, utilising notebooks and open science methods![image](https://user-images.githubusercontent.com/77619683/118994848-93b40b00-b97e-11eb-9162-42b6e11aa85f.png)
+  
 
-At the heart of this course will be a commitment to tackling the real-world challenges facing cities.
-
-Researchers at the University of Leeds are finding novel data-driven solutions to tackle challenges such as traffic congestion, social and economic equality, pollution and competition for resources. Find out more about our Urban Analytics research at Leeds. </p>
-
-<h4> Course highlights </h4>
-
+<h3> Learning Outcomes </h3>
+Upon completion of this module, students will be able to:
 <ul> 
-<li> Fieldtrips in an urban context will allow you to observe first-hand how data science can be used to create and shape urban policy, and how policies in turn impact urban systems and processes. </li>
-<li>You will work closely with external organisations and stakeholders, through co-development of creative solutions to urban problems.</li>
-<li>You will benefit from exposure to the wide range of urban research ongoing across the University - <a href = "https://environment.leeds.ac.uk/geography" target = "_blank" > School of Geography </a>,  <a href = "https://environment.leeds.ac.uk/transport" target = "_blank" > Institute for Transport Studies </a>,  <a href = "https://lida.leeds.ac.uk/" target = "_blank" > Leeds Institute for Data Analytics </a> and the  <a href = "https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/university-leeds" target = "_blank" > Alan Turing Institute </a>, the national institute for data science and artificial intelligence.</li>
-<li>A new seminar series featuring urban researchers and practitioners will consolidate a wider network of urban data scientists and policymakers and provide you with direct routes to the latest research, trends, and opportunities.</li>
+  <li> Understand and apply all steps of data handling and analytics, including wrangling, description, analysis, machine learning and visualisation </li>
+  <li> Understand the core concepts and applications of regression, clustering and classification methods and machine learning techniques, to identify and perform the appropriate implementation of each </li>
+  <li> Become comfortable working with a range of non-spatial, spatial, and temporal datasets, understanding their application to a range of different urban systems </li>
+  <li> Be able to select and perform appropriate visualisations according to the data, and utilise these to clearly present their data and findings </li>
+  <li> Be proficient in creating and presenting comprehensive code notebooks in Python </li>
+<li> Understand the benefits and practical applications of working with and creating their own open science methods </li>
 </ul>
   
-On completion of this course, you will have the technical skills and knowledge to secure employment in a range of organisations in roles such as a data scientist, data analyst, or software developer.
+<h3> Assessment </h3>
+The summative assessment for this module consists of:
+<ul>
+  <li> <b> 20%: </b> 2 x data science tasks </li>
+  <li> <b> 80%: </b> project notebook </li>
+</ul> 
+  
+
