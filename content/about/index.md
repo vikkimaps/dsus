@@ -1,6 +1,6 @@
 ---
-title: About
-summary: About the UDS @ Leeds course
+title: About Data Science for Cities
+summary: About the module
 date: "2021-03-19T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -22,7 +22,7 @@ At the heart of this course will be a commitment to tackling the real-world chal
 
 Researchers at the University of Leeds are finding novel data-driven solutions to tackle challenges such as traffic congestion, social and economic equality, pollution and competition for resources. Find out more about our Urban Analytics research at Leeds. </p>
 
-<h3> Course highlights </h3>
+<h2> Course highlights </h2>
 
 <ul> 
 <li> Fieldtrips in an urban context will allow you to observe first-hand how data science can be used to create and shape urban policy, and how policies in turn impact urban systems and processes. </li>
