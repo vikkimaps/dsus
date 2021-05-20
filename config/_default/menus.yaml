@@ -4,26 +4,25 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
-    url: /about
+  - name: Syllabus
+    url: /syllabus
     weight: 10
-  - name: Modules
-    url: /modules
-    weight: 20
   - name: Timetable
     url: /timetable
-    weight: 30
+    weight: 20
   - name: Reading
     url: /reading
-    weight: 40
+    weight: 30
   - name: Labs
     url: /labs
-    weight: 50
+    weight: 40
   - name: Homework
     url: /homework
-    weight: 60
+    weight: 50
+  - name: Resources
+    url: /resources
 
-modules:
+syllabus:
   - name: Overview
     weight: 1
 
@@ -40,5 +39,9 @@ labs:
     weight: 1
 
 homework:
+  - name: Overview
+    weight: 1
+    
+resources:
   - name: Overview
     weight: 1
