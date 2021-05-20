@@ -13,12 +13,12 @@ header:
   caption: ""
   image: ""
 ---
-<h4> Module Code: </h4> GEOG5420M 
-<h4> Module Title: </h4> Data Science for Cities 
-<h4> Credits: </h4> 15 
-<h4> Semester: </h4> 1  
-<h4> Compulsory: </h4> Yes 
-<h4> Course Leader: <h4/> <a href="https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden" target="_blank">Vikki Houlden </a> 
+<b> Module Code: </b> GEOG5420M 
+<b> Module Title: </b> Data Science for Cities 
+<b> Credits: </b> 15 
+<b> Semester: </b> 1  
+<b> Compulsory: </b> Yes 
+<b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden" target="_blank">Vikki Houlden </a> 
   
 <h3> Summary </h3>
 This module will provide a foundation in data science training, introducing concepts in data handling, exploratory data analysis, machine learning, and visualisation. The course will provide students with opportunities to work with a variety of spatial and spatiotemporal datasets relating to urban systems (e.g. transport data, demographics, morphologies). The course will embed good practice in data science production through code notebooks, and in open science methods (e.g. through GitHub). The course will aim to become language agnostic, but beginning by providing code and opportunities to submit assessments in a specified programming language, which will allow students to shape their learning to match optional course requirements.
