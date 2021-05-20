@@ -22,7 +22,7 @@ main:
   - name: Resources
     url: /resources
 
-syllabus:
+about:
   - name: Overview
     weight: 1
 
