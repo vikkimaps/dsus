@@ -13,6 +13,14 @@ header:
   caption: ""
   image: ""
 ---
+#update these details
+<h4> Module Code: </h4> GEOG5420M <br>
+<h4> Module Title: </h4> Data Science for Cities <br>
+<h4> Credits: </h4> 15 <br> 
+<h4> Semester: </h4> 1 <br> 
+<h4> Compulsory: </h4> Yes <br>
+<h4> Course Leader: <h4/> <a href="https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden" target="_blank">Vikki Houlden </a> <br>
+  
 <h3> Welcome to UDS@Leeds! </h3>
 <p> Our Masters degree in Urban Data Science and Analytics offers you the opportunity to gain in depth knowledge of the methods and approaches of data science and learn how to apply them in understanding cities and setting urban policy.
 
