@@ -5,7 +5,7 @@ headless: true
 active: true
 weight: 10
 
-title: "Urban Data Science @ Leeds"
+title: "Data Science for Cities" ### update to the title of your module
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media: leedslogo.png
@@ -23,4 +23,4 @@ cta_note:
   label: School of Geography<br>University of Leeds
 ---
 
-**New MSc for 2021/22**
+**GEOG5420M** ### update to your module code
