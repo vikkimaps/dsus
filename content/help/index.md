@@ -1,5 +1,5 @@
 ---
-title: Help
+title: Help and Resources
 summary: Help and Resources for Data Science for Cities
 date: "2021-03-19T00:00:00Z"
 
