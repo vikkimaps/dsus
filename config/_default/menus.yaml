@@ -19,8 +19,8 @@ main:
   - name: Homework
     url: /homework
     weight: 50
-  - name: Resources
-    url: /resources
+  - name: Help
+    url: /help
 
 about:
   - name: Overview
@@ -42,6 +42,6 @@ homework:
   - name: Overview
     weight: 1
     
-resources:
+help:
   - name: Overview
     weight: 1
