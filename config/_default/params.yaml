@@ -18,7 +18,7 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
+##### UPDATE THE CONTACT DETAILS #####
 
 author: Vikki Houlden
 
@@ -32,10 +32,10 @@ leader:
   contact_policy: >-
    Feel free to email me: v.houlden@leeds.ac.uk
 course:
-  name: "MSc Urban Data Science and Analytics"
+  name: "Data Science for Cities"
   year: "2021-22"
   github: "udsleeds"
-  twitter: uds_leeds
+  twitter: UDS_leeds
   location: "University of Leeds"
   copyrightYear: "2021"
 
@@ -52,6 +52,7 @@ school:
 ## Social
 ############################
 
+##### UPDATE THE TWITTER PAGE #####
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image: "leedslogo.png"
 
