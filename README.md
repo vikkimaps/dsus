@@ -71,7 +71,7 @@
 <li>  To edit a session, select the session file (eg content/reading/01-reading.md) and add content </li>
 <li>	To create a new session, make sure it’s saved under content/reading, and copy the formatting from another session file for ease </li>
 <li>	Once saved, this should appear both on the sidebar of the Reading page and also the grid on the Timetable page </li>
-<li>	This is exactly the same process for the Labs and Homework pages (make sure the titles of each session are exactly the same for Reading, Labs and Homework) </li>
+<li>	This is exactly the same process for the Labs and Homework pages (make sure the titles of each session are exactly the same in the title box- eg '01 Introduction'- for Reading, Labs and Homework) </li>
 </ul> 
 <br> 
 <h3> Other things you might want to change: </h3>
