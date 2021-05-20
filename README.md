@@ -2,7 +2,7 @@
 
 <h3> To set up your module website: </h3>
 <br>
-<b> Clone on Git: </br>
+<b> Clone on Git: </b>
 <ul>
 <li>	Clone </li>
 <li>  Copy link </li>
@@ -12,7 +12,7 @@
 <li>	Copy the link to your repository </li>
 </ul>
 <br>
-Deploy on Netlify (to check it’s all working):
+<b> Deploy on Netlify (to check it’s all working): </b>
 <ul>
 <li>	Create and/or log in to your Netlify account </li>
 <li>	Connect it with your GitHub account </li>
@@ -22,7 +22,7 @@ Deploy on Netlify (to check it’s all working):
 <li>	The link with the site name should appear at the top left of the page, click this and see your new site! Copy the weblink </li>
 </ul>
 <br>
-Change the title of your site:
+<b> Change the title of your site: </b>
 <ul>
 <li>	Start on your GitHub repository </li>
 <li>	Go to /config/_default/config.yaml </li>
@@ -32,39 +32,39 @@ Change the title of your site:
 <li>	Go back to Netlify >> Deploys and check it’s deployed correctly. Preview to see your changes. Do this after every update in Github, to spot any issues early </li>
 </ul>
 <br> 
-Change the Landing Page:
+<b> Change the Landing Page: </b>
 <ul>
 <li>	Go to /config/_default/params.yaml </li>
 <li>	Edit the Contact section and the Twitter (under social) </li>
 <li>	Check it Deploys correctly on Netlify </li>
 </ul>
 <br>
-Change the Intro box on the Landing page (stored in a widget so in a different location):
+<b> Change the Intro box on the Landing page (stored in a widget so in a different location): </b>
 <ul>
 <li>	Go to content/home/hero.md </li>
 <li>	Update the title and text </li>
 </ul>
 <br>
-Update the About page:
+<b> Update the About page: </b>
 <ul>
 <li>	Go to content/about/index.md </li>
 <li>	Edit to add the module details </li>
 </ul>
 <br>
-Update the Help page:
+<b> Update the Help page: </b>
 <ul>
 <li>	Go to content/help/index.md </li>
 <li>	Edit to add the content </li>
 </ul>
 <br>
-Update the Timetable page:
+<b> Update the Timetable page: </b>
 <ul>
 <li>	Go to content/timetable/index.md (You can ignore the anchor files, these are just for the layout) </li>
 <li>	On edit mode, you can see the three sections, which link directly to eg yourwebsite/reading/. If there is content for each session (making sure they have identical names), it will be populated under the respective heading here, on the live website </li>
 <li>	The formatting content is saved under {{< schedule >}} which is a shortcode (short piece of html code. Edit under layouts/shortcodes/schedule.html) </li>
 </ul>
  <br> 
-Update the Reading (or Labs or Homework) page:
+<b> Update the Reading (or Labs or Homework) page: </b>
 <ul>
 <li>	Go to content/reading/_index.md </li>
 <li>  Edit the content on Line 19 if you want new header text </li>
@@ -76,14 +76,14 @@ Update the Reading (or Labs or Homework) page:
 <br> 
 <h3> Other things you might want to change: </h3>
 
-To update the cover image:
+<b> To update the cover image: </b>
 <ul>
 <li>	Upload the image to /assets/media and copy the file name, including extension </li>
 <li>	Go to content/home/hero.md  </li>
 <li>	Change hero media to the name of the uploaded file </li>
 </ul>
 <br>
-To update the icon (in the brower):
+<b> To update the icon (in the brower): </b>
 <ul>
 <li>	Upload a new icon.png to /assets/media </li>
 </ul>
